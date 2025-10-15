@@ -1,4 +1,4 @@
-## Welcome to the IT lab
+## Welcome to the AIT lab
 ### This repo contains files used to build out the lab environment
 #### we use kvm, qemu, libvirt, vlan, ansible, virsh, agama and cloudinit to build out the lab infrastructure
 ##### virtual machines used for building out the lab are:
